@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/2Fw2FyEs5F5gCLbYnk/giphy.gif" width="100%" alt="matrix terminal gif"/>
 
-# 👨‍💻 CARLOS.CODE676
+# 👨‍💻 CarlosCode676
 
 ### `> desenvolvedor em construção | python developer | futuro hacker ético`
 

@@ -106,13 +106,17 @@ Se você curte gente que estuda de verdade e não tem medo de errar pra aprender
 ---
 
 <div align="center">
+<a href="mailto:c0873960@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF&labelColor=0D0221" />
+</a>
 
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0D0221" />
+<a href="SEU_LINK_DO_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D0221" />
+</a>
 
-*(troca os links dos badges acima pelos seus perfis reais)*
-
+<a href="SEU_LINK_DO_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C&labelColor=0D0221" />
+</a>
 </div>
 
 <br>
